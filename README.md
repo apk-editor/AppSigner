@@ -2,8 +2,6 @@
 
 <p style="text-align: center"><img src="https://raw.githubusercontent.com/apk-editor/AppSigner/master/screenshots/1.png" alt="" width="250" height="450" /> <img src="https://raw.githubusercontent.com/apk-editor/AppSigner/master/screenshots/2.png" alt="" width="250" height="450" /> <img src="https://raw.githubusercontent.com/apk-editor/AppSigner/master/screenshots/3.png" alt="" width="250" height="450" /></p>
 
-### AppSigner is a powerful, easy-to-use tool designed for Android enthusiasts to sign APK files quickly and securely. Whether you're a novice or an experienced developer, AppSigner simplifies the signing process, ensuring that your apps are ready for distribution with confidence.
-
 ## Key Features:
 
 * Easy APK Signing: Sign your APK files in just a few simple steps with a user-friendly interface.
@@ -26,4 +24,9 @@
 4. Ready to upload to the Play Store or distribute securely.
 
 ## Get Started Today!
+
 Download AppSigner and experience a simple, secure way to sign your APK files!
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+alt=""
+height="80">](https://play.google.com/store/apps/details?id=com.apk.appsigner)
